@@ -1,2 +1,3 @@
-# npm.zipcode-validator
+# Zipcode Validator
+
 validate zipcodes
